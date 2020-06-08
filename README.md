@@ -30,3 +30,12 @@ Les fichiers d'origine au format fixe sont:
 Le résultat est un fichier CSV unique gzippé.
 
 Le code utilisé est disponible dans le fichier repack.sh
+
+## Fichier COG2020
+
+Les variables **code_nai20** et **code_dec20** sont créées. 
+Elles indiquent le code commune du lieu de naissance et de décès harmonisé dans le référentiel du Code Officiel Géographique en vigueur au 1er janvier 2020. 
+
+Le code R utilisé est disponible dans le fichier .rmd
+
+Les données harmonisées sont disponibles dans le fichier .csv
