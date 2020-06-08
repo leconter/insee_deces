@@ -17,3 +17,6 @@ Corrections au cas par cas des codes communes inconnus.
 # Résultat
 
 Fichier agrégé avec référentiel géoographique cohérent et actualisé.
+Les variables **code_nai20** et **code_dec20** sont ajoutées au fichier original. 
+
+**Les enregistrements doublons des décés sont supprimés**
