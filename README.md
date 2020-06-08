@@ -33,8 +33,7 @@ Le code utilisé est disponible dans le fichier repack.sh
 
 ## Fichier COG2020
 
-Les variables **code_nai20** et **code_dec20** sont créées. 
-Elles indiquent le code commune du lieu de naissance et de décès harmonisé dans le référentiel du Code Officiel Géographique en vigueur au 1er janvier 2020. 
+Le code commune du lieu de naissance et de décès est harmonisé dans le référentiel du Code Officiel Géographique en vigueur au 1er janvier 2020. 
 
 Le code R utilisé est disponible dans le fichier .rmd
 
