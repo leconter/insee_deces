@@ -23,6 +23,8 @@ Les variables *code_nai20* et *code_dec20* sont ajoutées au fichier original.
 
 **Les enregistrements doublons des décés sont supprimés**
 
+Téléchargement du fichier: https://bit.ly/2C0sPsL
+
 # Licence
 
 Données: CC BY 4.0
